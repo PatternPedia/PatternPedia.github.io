@@ -1,3 +1,8 @@
+## PatternPedia
+
+- [Frontend Doku](/pattern-pedia-views-ui)
+- [Backend Doku](/pattern-pedia-views-backend)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/PatternPedia/PatternPedia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
